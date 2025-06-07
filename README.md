@@ -12,7 +12,7 @@ Este proyecto tiene como objetivo **optimizar los procesos core en una entidad b
 
 ## 🧭 Flujo Principal del Proceso
 
-```mermaid
+
 graph TD
     A[Inicio del proceso bancario] --> B[Automatización de flujo con microservicios]
     B --> C[Orquestación con Kubernetes & Camunda]
