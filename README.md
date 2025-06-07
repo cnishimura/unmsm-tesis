@@ -15,7 +15,7 @@ Este proyecto tiene como objetivo **optimizar los procesos core en una entidad b
 ```mermaid
 graph TD
     A[Inicio del proceso bancario] --> B[Automatización de flujo con microservicios]
-    B --> C[Orquestación con Kubernetes & Camunda]
+    B --> C[Orquestación con Kubernetes y Camunda]
     C --> D[Procesamiento modular de servicios]
     D --> E[Monitoreo y escalabilidad en la nube]
-    E --> F[Resultados: +Eficiencia & +Satisfacción del cliente]
+    E --> F[Resultados: Eficiencia y Satisfacción del cliente]
